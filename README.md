@@ -1,2 +1,2 @@
 # myProj
-## To test how Github acts.
+## To test how Github works.
